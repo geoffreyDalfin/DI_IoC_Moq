@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{30B07BFF-8E63-48FF-BFEC-BE9CC3D6CE8E}|Default">
+  <MonoDevelop.Ide.ItemProperties.ID__IoC__Moq PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ID_IoC_Moq.UnitTest/CatalogueServiceUnitTest.cs">
+    <Files>
+      <File FileName="ID_IoC_Moq/Program.cs" Line="21" Column="14" />
+      <File FileName="ID_IoC_Moq/Models/Produit.cs" />
+      <File FileName="ID_IoC_Moq/Repos/CAtalogueRepository.cs" />
+      <File FileName="ID_IoC_Moq/Services/CatalogueService.cs" />
+      <File FileName="ID_IoC_Moq.UnitTest/CatalogueServiceUnitTest.cs" Line="17" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ID_IoC_Moq" expanded="True" selected="True">
+            <Node name="ID_IoC_Moq" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Repos" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="ID_IoC_Moq.UnitTest" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ID_IoC_Moq" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
